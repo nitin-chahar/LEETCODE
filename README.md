@@ -7,4 +7,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0177-nth-highest-salary](https://github.com/nitin-chahar/LEETCODE/tree/master/0177-nth-highest-salary) |
+## String
+|  |
+| ------- |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/nitin-chahar/LEETCODE/tree/master/3863-minimum-operations-to-sort-a-string) |
 <!---LeetCode Topics End-->
