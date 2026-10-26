@@ -2,14 +2,16 @@ class Solution {
 public:
     vector<pair<int, int>> dir = {{0, -1}, {-1, 0}, {1, 0}, {0, 1}};
 
-    void dfs(vector<vector<int>>& grid, int r, int c, long long& sum){
-        if(r < 0 || c < 0 || r >= grid.size() || c >= grid[0].size() || grid[r][c] == 0) return;
-        sum += grid[r][c];
+    long long dfs(vector<vector<int>>& grid, int r, int c){
+        if(r < 0 || c < 0 || r >= grid.size() || c >= grid[0].size() || grid[r][c] == 0) return 0;
+        long long sum = grid[r][c];
         grid[r][c] = 0;
 
         for(auto d : dir){
-            dfs(grid, r+d.first, c+d.second, sum);
+            sum += dfs(grid, r+d.first, c+d.second);
         }
+
+        return sum;
     }
 
     int countIslands(vector<vector<int>>& grid, int k) {
@@ -18,8 +20,7 @@ public:
         for(int i=0; i<r; i++){
             for(int j=0; j<c; j++){
                 if(grid[i][j] != 0){
-                    long long sum = 0;
-                    dfs(grid, i, j, sum);
+                    long long sum = dfs(grid, i, j);
                     if(sum%k == 0) ans++;
                 }
             }
