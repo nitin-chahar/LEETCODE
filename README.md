@@ -22,10 +22,12 @@ A curated collection of LeetCode solutions showcasing problem-solving skills, al
 ## Math
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/nitin-chahar/LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2409-count-days-spent-together](https://github.com/nitin-chahar/LEETCODE/tree/master/2409-count-days-spent-together) |
 ## Array
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/nitin-chahar/LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1254-number-of-closed-islands](https://github.com/nitin-chahar/LEETCODE/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/nitin-chahar/LEETCODE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3963-create-grid-with-exactly-one-path](https://github.com/nitin-chahar/LEETCODE/tree/master/3963-create-grid-with-exactly-one-path) |
@@ -50,4 +52,8 @@ A curated collection of LeetCode solutions showcasing problem-solving skills, al
 | [1254-number-of-closed-islands](https://github.com/nitin-chahar/LEETCODE/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/nitin-chahar/LEETCODE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3963-create-grid-with-exactly-one-path](https://github.com/nitin-chahar/LEETCODE/tree/master/3963-create-grid-with-exactly-one-path) |
+## Sorting
+|  |
+| ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/nitin-chahar/LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 <!---LeetCode Topics End-->
