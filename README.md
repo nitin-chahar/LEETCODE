@@ -32,6 +32,7 @@ A curated collection of LeetCode solutions showcasing problem-solving skills, al
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/nitin-chahar/LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1254-number-of-closed-islands](https://github.com/nitin-chahar/LEETCODE/tree/master/1254-number-of-closed-islands) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/nitin-chahar/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2747-count-zero-request-servers](https://github.com/nitin-chahar/LEETCODE/tree/master/2747-count-zero-request-servers) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/nitin-chahar/LEETCODE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/nitin-chahar/LEETCODE/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3963-create-grid-with-exactly-one-path](https://github.com/nitin-chahar/LEETCODE/tree/master/3963-create-grid-with-exactly-one-path) |
@@ -61,6 +62,7 @@ A curated collection of LeetCode solutions showcasing problem-solving skills, al
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/nitin-chahar/LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/nitin-chahar/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2747-count-zero-request-servers](https://github.com/nitin-chahar/LEETCODE/tree/master/2747-count-zero-request-servers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -69,4 +71,12 @@ A curated collection of LeetCode solutions showcasing problem-solving skills, al
 |  |
 | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/nitin-chahar/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
+## Hash Table
+|  |
+| ------- |
+| [2747-count-zero-request-servers](https://github.com/nitin-chahar/LEETCODE/tree/master/2747-count-zero-request-servers) |
+## Sliding Window
+|  |
+| ------- |
+| [2747-count-zero-request-servers](https://github.com/nitin-chahar/LEETCODE/tree/master/2747-count-zero-request-servers) |
 <!---LeetCode Topics End-->
