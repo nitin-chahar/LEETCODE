@@ -32,6 +32,7 @@ A curated collection of LeetCode solutions showcasing problem-solving skills, al
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/nitin-chahar/LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1254-number-of-closed-islands](https://github.com/nitin-chahar/LEETCODE/tree/master/1254-number-of-closed-islands) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/nitin-chahar/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1882-process-tasks-using-servers](https://github.com/nitin-chahar/LEETCODE/tree/master/1882-process-tasks-using-servers) |
 | [2747-count-zero-request-servers](https://github.com/nitin-chahar/LEETCODE/tree/master/2747-count-zero-request-servers) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/nitin-chahar/LEETCODE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/nitin-chahar/LEETCODE/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -79,4 +80,8 @@ A curated collection of LeetCode solutions showcasing problem-solving skills, al
 |  |
 | ------- |
 | [2747-count-zero-request-servers](https://github.com/nitin-chahar/LEETCODE/tree/master/2747-count-zero-request-servers) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1882-process-tasks-using-servers](https://github.com/nitin-chahar/LEETCODE/tree/master/1882-process-tasks-using-servers) |
 <!---LeetCode Topics End-->
