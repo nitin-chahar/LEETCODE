@@ -19,6 +19,7 @@ A curated collection of LeetCode solutions showcasing problem-solving skills, al
 ## String
 |  |
 | ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/nitin-chahar/LEETCODE/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/nitin-chahar/LEETCODE/tree/master/2409-count-days-spent-together) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/nitin-chahar/LEETCODE/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Math
@@ -100,6 +101,7 @@ A curated collection of LeetCode solutions showcasing problem-solving skills, al
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/nitin-chahar/LEETCODE/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/nitin-chahar/LEETCODE/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Ordered Set
 |  |
 | ------- |
